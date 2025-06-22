@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="APIAutomationPrograms"><classes><class name="com.restassuredproject.Ex_03_TestNG_AllureReport.APITesting_Lab07_TestCases"><methods><include name="test_GET_POSITIVE_TC1"/><include name="test_GET_NEGATIVE_TC2"/><include name="test_GET_NEGATIVE_TC3"/></methods></class><class name="com.restassuredproject.Ex_03_TestNG_AllureReport.APITesting_Lab07_TestCases"></class></classes></test></suite>
