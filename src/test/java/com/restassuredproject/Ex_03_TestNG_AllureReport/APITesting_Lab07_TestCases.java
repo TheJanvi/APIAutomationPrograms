@@ -3,7 +3,7 @@ package com.restassuredproject.Ex_03_TestNG_AllureReport;
 import io.restassured.RestAssured;
 import org.testng.annotations.Test;
 
-public class APITesting_Lab06_TestCases
+public class APITesting_Lab07_TestCases
 {
     String pincode = "110048";
 
