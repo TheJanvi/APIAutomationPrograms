@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="APIAutomationPrograms/src/test/java/com/restassuredproject/Ex_04_RA_HTTP_Method_GET/APITesting_Lab09_NonBDDStyle.java">
+        <classes>
+            <class name="com.restassuredproject.Ex_04_RA_HTTP_Method_.GET.APITesting_Lab09_NonBDDStyle">
+            </class>
+        </classes>
+    </test>
+</suite>
