@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <test verbose="2" preserve-order="true"  name="APIAutomationPrograms">
+
+
+
+        <classes>
+              <class name="com.restassuredproject.Tasks.Restful_Booker_Allure_Report.Create_Booking_POST"></class>
+            <class name="com.restassuredproject.Tasks.Restful_Booker_Allure_Report.Create_Token_POST"></class>
+            <class name="com.restassuredproject.Tasks.Restful_Booker_Allure_Report.Partial_Update_PATCH"></class>
+            <class name="com.restassuredproject.Tasks.Restful_Booker_Allure_Report.Full_Update_PUT"></class>
+            <class name="com.restassuredproject.Tasks.Restful_Booker_Allure_Report.Delete_Booking_DELETE"></class>
+
+          </classes>
+
+
+
+    </test>
+</suite>
