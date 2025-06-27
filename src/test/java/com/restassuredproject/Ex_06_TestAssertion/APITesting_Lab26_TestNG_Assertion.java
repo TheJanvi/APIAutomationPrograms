@@ -1,4 +1,4 @@
-package com.restassuredproject.Ex_06__RA_TestAssertion;
+package com.restassuredproject.Ex_06_TestAssertion;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;

@@ -1,5 +1,4 @@
-package com.restassuredproject.Ex_06__RA_TestAssertion;
-import static org.assertj.core.api.Assertions.*;
+package com.restassuredproject.Ex_06_TestAssertion;
 
 import io.qameta.allure.Owner;
 import io.qameta.allure.Severity;
@@ -18,8 +17,8 @@ import org.testng.annotations.Test;
 @Owner("Jahnvi")
 @Severity(SeverityLevel.CRITICAL)
 @Description("TC#1 - Verify tht the create booking is working fine, booking ID is not null")
-@Test
-public class APITesting_Lab27_RestAssured_AssertJ {
+ @Test
+public class APITesting_Lab25_RA_Assertion {
 
     RequestSpecification requestSpecification;
     Response response;
@@ -70,6 +69,3 @@ public class APITesting_Lab27_RestAssured_AssertJ {
 
 
 }
-
-
-
